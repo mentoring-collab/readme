@@ -11,7 +11,14 @@ Bestimmte Punkte sind noch zu definieren:
 * Erstes Repo mit einer Readme in GitHub
 * Erstes Gespräch und Gedanken über die App
 * GraalVM gelernt
+* GraalVM (Video schauen)
+* 2 Repos und intelliJ Community (readme und spielwiese)
 
 === To Dos
 * Java LTS Version: 8 vs. 11 -> Unterschied zwischen Versionen, was hat sich geändert?
-* GraalVM (Video schauen)
+  https://www.digitalocean.com/community/tutorials/java-11-features
+* lambda-Beispiele mit Consumer, Predicate und Suplier provieren (+Optional)
+  https://medium.com/swlh/understanding-java-8s-consumer-supplier-predicate-and-function-c1889b9423d
+  
+=== Nächste Woche
+*Wie sehen die Beispiele in konz aus?
