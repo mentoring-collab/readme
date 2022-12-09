@@ -13,12 +13,22 @@ Bestimmte Punkte sind noch zu definieren:
 * GraalVM gelernt
 * GraalVM (Video schauen)
 * 2 Repos und intelliJ Community (readme und spielwiese)
-
-=== To Dos
 * Java LTS Version: 8 vs. 11 -> Unterschied zwischen Versionen, was hat sich geändert?
   https://www.digitalocean.com/community/tutorials/java-11-features
 * lambda-Beispiele mit Consumer, Predicate und Suplier provieren (+Optional)
   https://medium.com/swlh/understanding-java-8s-consumer-supplier-predicate-and-function-c1889b9423d
+
+=== To Dos
+* Tabelle für die Lambdas in spielwiese erzeugen: Was machen sie? Was komm rein und raus? usw.
+* entwickler.de anschauen
+* Weitere Beispiele mit Optionals
+* Beispiele mit Functional, Bifunction und Operator
   
-=== Nächste Woche
-*Wie sehen die Beispiele in konz aus?
+=== Themen für nächste Woche
+* Stream API
+
+=== Pläne für Januar 2023
+* evtl. Stream API weiter
+* Exceptions (Trickkiste)
+* Date & Time: was sich in Java 8 geändert hat und warum
+* Schulungen
