@@ -17,12 +17,20 @@ Bestimmte Punkte sind noch zu definieren:
   https://www.digitalocean.com/community/tutorials/java-11-features
 * lambda-Beispiele mit Consumer, Predicate und Suplier provieren (+Optional)
   https://medium.com/swlh/understanding-java-8s-consumer-supplier-predicate-and-function-c1889b9423d
+* Tabelle für die Lambdas in spielwiese erzeugen: Was machen sie? Was komm rein und raus? usw.
+* Beispiele mit Functional, Bifunction und Operator
 
 === To Dos
-* Tabelle für die Lambdas in spielwiese erzeugen: Was machen sie? Was komm rein und raus? usw.
+
 * entwickler.de anschauen
-* Weitere Beispiele mit Optionals
-* Beispiele mit Functional, Bifunction und Operator
+* Optionals:
+
+  ** 3 Dtos für die Tests vorbereiten
+
+  ** Use Cases in einer Tabelle schreiben
+
+  ** Beispiel mit folgenden Methoden: ifPresent(); ifPresentOrElse(); map(); orElseGet(); orElseThrow(); or();
+
   
 === Themen für nächste Woche
 * Stream API
